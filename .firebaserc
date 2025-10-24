@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "default": "jugal-s-portfolio",
+    "jugal's portfolio": "jugal-s-portfolio",
+    "portfolio": "jugal-s-portfolio",
+    "deployed": "jugal-s-portfolio",
+    "Staging": "jugal-s-portfolio"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
